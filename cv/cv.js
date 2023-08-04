@@ -263,8 +263,8 @@ const cv = {
         "TCP/IP. DHCP. ADSL. Wifi. Webmail.",
         "Soft skills improved: communication, collaboration, team leading, customer service",
         "Achievements:",
-        "-Created and maintained a documentation site to standarize 90% of most common issues with proper solutions across the Call Center.",
-        "-This impacted in a decreased amount of recalls related to technical issues, less spent solving time, and quicker onboarding of new employees."
+        "Created and maintained a documentation site to standarize 90% of most common issues with proper solutions across the Call Center.",
+        "This impacted in a decreased amount of recalls related to technical issues, less spent solving time, and quicker onboarding of new employees."
       ],
       "stack": [
         { "id": 1, "text": "Team lead", "color": "magenta", "image": "images/teamleading1.png" },
